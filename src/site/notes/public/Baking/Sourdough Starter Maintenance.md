@@ -30,11 +30,11 @@ This is your main starter. It stays in the fridge, always hibernating.
 
 1. **Make A Baby**.  Scoop 10g of Mother into its own jar.
 2. **Feed The Baby**:  
-	1. **Add flour and water**, mix (see ratios below)
+	1. **Add flour and water**, mix ([[public/Baking/Sourdough Starter Maintenance#Junior's Ratios & Time To Peak\|see ratios below]])
 	2. **Give Junior a Tutu**.  put a single coffee filter over Junior's jar instead of a lid, and put a rubber band to hold it on (or one of those topless mason jar lids). This lets Junior breathe.
 3. **Wait for Junior to Peak**. Use Junior when he's at his peak.
 	- An active starter will double or triple in size after you feed it. When the starter reaches its height it's at its *Peak.*
-	- The amount of time it takes to peak depends on the feeding ratio (see below)
+	- The amount of time it takes to peak depends on the feeding ratio ([[public/Baking/Sourdough Starter Maintenance#Junior's Ratios & Time To Peak\|see below]])
 4. When Junior's at his peak, you're ready to make dough.
 	- Each recipe will tell you how much starter to use to make the dough.
 ## Junior's Ratios & Time To Peak
