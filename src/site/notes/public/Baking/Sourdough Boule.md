@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Baking/Sourdough Boule.md","permalink":"/baking/sourdough-boule/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/public/baking/sourdough-boule/","dg-note-properties":{}}
 ---
 
 #sourdough #sourdough/active #bread 
