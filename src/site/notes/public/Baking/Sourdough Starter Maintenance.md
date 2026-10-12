@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/baking/sourdough-starter-maintenance/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Baking/Sourdough Starter Maintenance.md","permalink":"/baking/sourdough-starter-maintenance/","dg-note-properties":{}}
 ---
 
 #baking #sourdough 
