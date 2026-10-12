@@ -45,7 +45,7 @@
       }
     },
     "dg-filetree": {
-      "enabled": false
+      "enabled": true
     },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
